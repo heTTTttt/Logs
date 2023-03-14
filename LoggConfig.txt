@@ -1,0 +1,4 @@
+FILE: C:\JavaCode\Logs\LoggConfig.txt
+LEVEL: DEBUG
+MAX-SIZE: 1024
+FORMAT:[%s][%s][%s]
