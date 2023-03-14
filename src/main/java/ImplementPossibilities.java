@@ -5,6 +5,8 @@ public class ImplementPossibilities {
         void warn(String message);
         void error(String message);
         void setConfiguration(FileLoggerConfiguration configuration);
+
+        // not sure about this task.
     }
 
 }
